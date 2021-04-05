@@ -24,5 +24,15 @@ public class Class1 {
      */
 
 
+    void feautre1(){
+
+
+
+
+    }
+
+
+
+
 
 }
