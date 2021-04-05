@@ -24,7 +24,7 @@ public class Class1 {
      */
 
 
-    void feautre1(){
+    void feautre1y(){
 
 
 
