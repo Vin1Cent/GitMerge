@@ -5,5 +5,5 @@ Date:
 
 */
 
-public class Class2 {
+public class Cherry3 {
 }
